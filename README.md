@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# Wild Rift Performance Helper
+# Wild Rift Performance Helper
 
 **Ferramenta experimental de diagnóstico de dispositivo Android**, criada para investigar possíveis fatores associados a quedas de FPS e instabilidade durante partidas de *League of Legends: Wild Rift*.
 
