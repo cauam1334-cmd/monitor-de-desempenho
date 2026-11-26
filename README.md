@@ -57,3 +57,32 @@ Projeto individual de estudo e experimentação com diagnóstico de dispositivos
 path = Path("/mnt/data/README-profissional.md")
 path.write_text(content, encoding="utf-8")
 print(f"Arquivo criado: {path}")
+
+
+## Como testar
+
+Atualmente, o projeto está em desenvolvimento e ainda não possui um script executável publicado no repositório.
+
+As funcionalidades documentadas representam a proposta inicial da ferramenta. O código-fonte e as instruções de execução serão disponibilizados conforme o desenvolvimento avançar.
+
+### Ambiente de desenvolvimento
+
+- Android
+- Termux
+- Bash
+- Git
+
+## Próximas etapas
+
+- Publicação dos scripts Bash.
+- Implementação dos diagnósticos.
+- Testes em dispositivos Android.
+- Melhorias na documentação.
+- Registro dos resultados e evolução do projeto.
+
+## Autor
+
+Desenvolvido por Cauã M. Santos.
+
+Projeto pessoal de estudos em tecnologia, automação e análise de desempenho em dispositivos Android.
+
